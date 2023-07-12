@@ -4,5 +4,7 @@ title: Academic Background
 subtitle: Data Science and Machine Learning applied to Financial Markets
 ---
 
-
+<center>
+<h3>ITAM</h3>
+</center>
 
