@@ -21,11 +21,11 @@ author: Diego Zuniga
 
 navbar-links:
   About Me: "aboutme"
-  Experience: "Professional"
+  Experience: "./docs/Experience/Professional"
   Education:
-    - Actuarial Science: "Bachelor"
-    - Data Science: "Data_Science"
-    - Artificial Intelligence: "Artificial_Intelligence"
+    - Actuarial Science: "./docs/Academic/Bachelor"
+    - Data Science: "./docs/Academic/Data_Science"
+    - Artificial Intelligence: "./docs/Academic/Artificial_Intelligence"
   Portfolio: "Portfolio"
 
 ################
