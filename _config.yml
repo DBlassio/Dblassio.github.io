@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 
+title: Diego Zuniga
 
 # Your name to show in the footer
 author: Diego Zuniga
@@ -37,7 +37,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: "./assets/img/Mountain_Logo.png"
+title-img: "./assets/img/white.png"
 
 
 #####################################
