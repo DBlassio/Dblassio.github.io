@@ -5,8 +5,8 @@ title: About me
 
 <div style='text-align: justify;'>
 Meet Diego, an accomplished individual with a thirst for knowledge and a passion for adventure. Based in Mexico City, Diego pursued his academic journey at ITAM, one of the country's most esteemed institutions of higher learning, renowned for its excellence in the social and economic sciences. With a degree in Actuarial Sciences from ITAM, Diego laid a solid foundation for his analytical prowess. He further honed his skills by completing a Postgraduate diploma in Data Science and Machine Learning, solidifying his position as a well-rounded expert in the field. 
-</div><br/>
-
+</div>
+\\
 <div style='text-align: justify;'>
 As a Data Scientist, Diego has been instrumental in extracting valuable insights from complex datasets, leveraging his analytical acumen to drive data-informed decision-making. Diego is currently undertaking his second diploma at Stanford University, specializing in Artificial Intelligence, specifically: Natural Language Processing, Graph Neural Networks, Deep Multi-Task and Meta Learning
 </div><br/>
