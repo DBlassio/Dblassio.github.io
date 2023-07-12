@@ -21,9 +21,8 @@ author: Diego Zuniga
 
 navbar-links:
   About Me: "aboutme"
-  Background:
-    - Academic: "Academic"
-    - Professional: "Professional"
+  Experience: "Professional"
+  Education: "Academic"
   Portfolio: "Portfolio"
 
 ################
