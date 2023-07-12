@@ -22,7 +22,10 @@ author: Diego Zuniga
 navbar-links:
   About Me: "aboutme"
   Experience: "Professional"
-  Education: "Academic"
+  Education:
+    - Bachelor: "Bachelor"
+    - Data Science: "Data_Science"
+    - Artificial Intelligence: "Artificial_Intelligence"
   Portfolio: "Portfolio"
 
 ################
