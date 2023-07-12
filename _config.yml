@@ -21,7 +21,7 @@ author: Diego Zuniga
 
 navbar-links:
   About Me: "aboutme"
-  Experience: ["./docs/Experience/Professional.md"]
+  Experience: "Professional"
   Education:
     - Actuarial Science: "Bachelor"
     - Data Science: "Data_Science"
