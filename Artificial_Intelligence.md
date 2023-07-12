@@ -10,3 +10,5 @@ subtitle: "Artificial Intelligence Professional Program"
 <center>
 <img src='./assets/img/Stanford.png' title="Stanford University" width="300" height="200">
 </center>
+
+![](./assets/img/Stanford.png)
