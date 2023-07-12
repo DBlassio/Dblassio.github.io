@@ -7,8 +7,5 @@ subtitle: "Artificial Intelligence Professional Program"
 <h3>Stanford University</h3>
 </center>
 
-<center>
-<img src='./assets/img/Stanford.png' title="Stanford University" width="300" height="200">
-</center>
-
-![](./assets/img/Stanford.png)
+![Stanford](./assets/img/Stanford.png)
+<img src="Stanford" alt= “” width="300" height="200">
