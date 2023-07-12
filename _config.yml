@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Experience: "Professional"
   Education:
-    - Bachelor: "Bachelor"
+    - Actuarial Science: "Bachelor"
     - Data Science: "Data_Science"
     - Artificial Intelligence: "Artificial_Intelligence"
   Portfolio: "Portfolio"
