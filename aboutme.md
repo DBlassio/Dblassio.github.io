@@ -3,12 +3,12 @@ layout: page
 title: About me
 ---
 
-Diego is a highly skilled professional with a strong background in *Data Science and Data Analysis*. He studied Actuarial Sciences at a prestigious institution in Mexico and holds a post-graduate diploma in Data Science and Machine Learning in ITAM, specializing in cutting-edge technologies. With a solid foundation in mathematics and analytical thinking, Diego excels at leveraging data-driven insights to solve complex business challenges, developing advanced models and algorithms using machine learning and statistical techniques.
 
-Apart from his professional achievements, Diego is an avid enthusiast of triathlons and outdoor sports. This reflects his determined and goal-oriented nature, as he embraces the rigorous training and discipline required for multi-sport competitions. Diego's love for outdoor adventures extends to activities like camping, hiking, and trail running, providing him with opportunities to rejuvenate and find inspiration outside the realm of data and algorithms.
+Meet Diego, an accomplished individual with a thirst for knowledge and a passion for adventure. Hailing from Mexico, Diego pursued his academic journey at ITAM, one of the country's most esteemed institutions of higher learning, renowned for its excellence in the social and economic sciences. With a degree in Actuarial Sciences from ITAM, Diego laid a solid foundation for his analytical prowess. He further honed his skills by completing a Postgraduate diploma in Data Science and Machine Learning, solidifying his position as a well-rounded expert in the field. As a Data Scientist, Diego has been instrumental in extracting valuable insights from complex datasets, leveraging his analytical acumen to drive data-informed decision-making. Diego is currently undertaking his second diploma at Stanford University, specializing in Artificial Intelligence, specifically: Natural Language Processing, Graph Neural Networks, Deep Multi-Task and Meta Learning
 
-Balancing his professional pursuits with his passion for triathlons and outdoor sports, Diego embodies a well-rounded approach to life. His analytical acumen, coupled with his adventurous spirit, contributes to his versatility and ability to tackle diverse experiences with enthusiasm and determination. Whether he is delving into complex data analysis or conquering physical challenges, Diego demonstrates a drive for excellence and a commitment to pushing boundaries in both his personal and professional endeavors.
 
-### My Quote
+Balancing his professional pursuits, Diego is an avid enthusiast of triathlons and outdoor sports. This reflects his determined and goal-oriented nature, as he embraces the rigorous training and discipline required for multi-sport competitions. Diego's love for outdoor adventures extends to activities like camping, hiking, and trail running, providing him with opportunities to rejuvenate and find inspiration outside the realm of data and algorithms.
 
- [My Favorite Quote](https://twitter.com/nochedeletras/status/449188150682734592)
+### My Favorite Quote
+
+_"Rest at the end, not in the Middle"_
