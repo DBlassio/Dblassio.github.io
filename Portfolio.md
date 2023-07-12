@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Background
+title: Portfolio
 ---
 
 My name is Inigo Montoya. I have the following qualities:
