@@ -5,4 +5,4 @@ title: Professional Background
 
 *in maintenance.*
 
-![Mi amigo el plomero-biker](./assets/img/LuisGabriel.PNG)
+![Mi amigo el plomero-biker](./assets/img/LuisGabriel.png)
