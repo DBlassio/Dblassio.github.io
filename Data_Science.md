@@ -6,6 +6,8 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 
 <center>
 <h3>ITAM</h3>
-<img src="https://github.com/DBlassio/Dblassio.github.io/blob/8c50b17656d40c30d827582f6233fd3479ee2c51/assets/img/ITAM.png" title="ITAM" width="300" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
+width = "250" height ="100"/>
 </center>
+
 
