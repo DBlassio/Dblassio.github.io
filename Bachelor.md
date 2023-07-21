@@ -8,6 +8,7 @@ subtitle: Bachelor of Applied Science (B.A.Sc.), Actuarial Science
 <h3>ITAM</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
 width = "250" height ="100"/>
+<p><small>"For a freer, fairer and more prosperous Mexico."</small></p>
 </center>
 
 The career's curriculum is focused on **mathematical, probabilistic and statistical** aptitude, enabling to effectively tackle and resolve business, social, and financial issues through astute problem-solving and analysis.
@@ -17,13 +18,13 @@ Some of the subjects and projects undertaken within the program included:
 - MICRO and MACRO ECONOMICS, ECONOMICS OF UNCERTAINTY
 - ACCOUNTING, FINANCIAL MATHEMATICS
 - DIFFERENTIAL AND INTEGRAL CALCULUS (univariate y multivariable)
-- HIGHER ALGEBRA y LINEAR ALGEBRA
+- HIGHER ALGEBRA and LINEAR ALGEBRA
 - PROBABILITY CALCULUS (univariate y multivariable)
 - LOSS DISTRIBUTIONS AND RISK THEORY, QUANTITATIVE RISK MANAGEMENT
 - APPLIED STATISTICS, MATHEMATICAL STATISTICS, STOCHASTIC PROCESSES.
 - ALGORITHMICS AND PROGRAMMING, SIMULATION AND OPTIMIZATION, NUMERICAL ANALYSIS, CREDIBILITY THEORY AND IBNR.
 
-Some of the tools utilized within the program encompassed Python, R, Matlab, Bloomberg, and Microsoft Excel.
+Some of the tools utilized within the program encompassed **Python, R, Matlab, Bloomberg, and Microsoft Excel**.
 
 Within the program, there were also courses designed to provide us with the ability to comprehend the political and social phenomena of the Mexican reality, as well as the foundations of logic and philosophy in general. Some of the courses included:
 
