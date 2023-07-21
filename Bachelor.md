@@ -8,5 +8,5 @@ subtitle: Bachelor of Applied Science (B.A.Sc.), Actuarial Science
 <h3>ITAM</h3>
 </center>
 
-![ITAM](./assets/img/ITAM.png)
+![ITAM|320x271](./assets/img/ITAM.png)
 <img src="./assets/img/ITAM.png"  style="width:200px;"/>
