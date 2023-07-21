@@ -12,4 +12,4 @@ subtitle: Bachelor of Applied Science (B.A.Sc.), Actuarial Science
 <img src="ITAM.png" width = "120" height = "90"/>
 <img src="C:\Users\diego\Desktop\Documentos\Diego\Dblassio.github.io\assets\img\ITAM.png" width = "120" height = "200"/>
 
-C:\Users\diego\Desktop\Documentos\Diego\Dblassio.github.io\assets\img\ITAM.png
+<img src="./assets/img/ITAM.png" height="100"/>
