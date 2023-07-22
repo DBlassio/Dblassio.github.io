@@ -5,7 +5,7 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 ---
 
 <center>
-<h3>ITAM</h3>
+<h3>Instituto Tecnológico Autónomo de México</h3>
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
     width = "250" height ="100"/>
