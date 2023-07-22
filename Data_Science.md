@@ -11,4 +11,48 @@ width = "250" height ="100"/>
 <p><small>"For a freer, fairer and more prosperous Mexico."</small></p>
 </center>
 
+In this 7-month-long diploma program, we delved into the world of data science and machine learning. We used **Python** to build sophisticated models. We explored the fundamentals of data science through building our own machine learning models from scratch. With a hands-on approach, we skillfully crafted advanced data models, applying cutting-edge machine learning techniques into a financial perspective.
+
+The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:
+
+1. INTRODUCTION TO PYTHON WITH FINANCE
+    - Cycles
+    - Functions
+    - Standard Libraries
+    - Lambda Function, List Comprehensions
+    - Financial Mathematics and Money Market (Bond Valuation, Yield Rates, Risk Measures).
+
+2. STATISTICS, AND PROBABILITY WITH PYTHON
+    - Linear Algebra 
+    - Probability (Continuous and Discrete Distributions)
+    - Inferential Statistics, Bayesian Statistics
+    - Montecarlo and Brownian motion 
+	
+3. DATA SCIENCE
+    - Databases and SQL
+    - Scientific Python (Information Manipulation, Pipelines)
+    - Data Analysis (Pandas, Data Cleaning, WebScrapping, Data Gathering)
+    - Financial Data Analysis (Market Sentiment, Trend Analysis)
+    *Libraries: Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*
+
+4. MACHINE LEARNING
+    - Model Selection and Training (Cross-Validation, Regularization, Gradient Descent Method, Normalization)
+    - Supervised Models (Logistic Regression, Decision Trees, SVM, Kernel Trick)
+    - Ensemble Learning (Random Forests, Voting Classifiers, Bagging, Boosting)
+    - Unsupervised Models (KNN, KDE, PCA)
+    - Time Series
+    - Applications: Unsupervised Fraud Detection, VaR Using ML, Credit Risk and Counterparty Risk Measurement.
+    - Portfolio Optimization
+    *Libraries: Scikit-Learn, XGBoost, LightGBM, CatBoost*
+    
+5. DEEP LEARNING
+    - Activation Functions (Sigmoid, TanH, ReLU)
+    - Feedforward Networks (Single Layer and Multi-Layer, Backpropagation)
+    - Learning Methods (Gradient Descent, Momentum, ADAM, AdaGrad)
+    - Regularization (L1, L2, Batch, Dropout, Early Stopping)
+    - Convolutional Neural Networks
+    - Recurrent Neural Networks (LSTM, Vanishing Gradient Problem)
+    - Auto-Encoders
+    - Applications: Expected Returns, CVA Estimation, LSTM’s for Time Series.
+    *Libraries: Tensorflow, Keras, PyTorch*
 
