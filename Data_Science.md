@@ -16,15 +16,14 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 <div style='text-align: justify;'>
 <br/>In this 7-month-long diploma program, we delved into the world of data science and machine learning. We used **Python** to build sophisticated models. We explored the fundamentals of data science through building our own machine learning models from scratch. With a hands-on approach, we skillfully crafted advanced data models, applying cutting-edge machine learning techniques into a financial perspective.
 
-The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:</div>
+The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:<br/></div>
 
 1. INTRODUCTION TO PYTHON WITH FINANCE
     - Cycles
     - Functions
     - Standard Libraries
     - Lambda Function, List Comprehensions
-    - Financial Mathematics and Money Market (Bond Valuation, Yield Rates, Risk Measures).
-    <br/>
+    - Financial Mathematics and Money Market (Bond Valuation, Yield Rates, Risk Measures).<br/>
 
 2. STATISTICS, AND PROBABILITY WITH PYTHON
     - Linear Algebra 

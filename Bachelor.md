@@ -6,9 +6,11 @@ subtitle: Bachelor of Applied Science (B.A.Sc.), Actuarial Science
 
 <center>
 <h3>ITAM</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
-width = "250" height ="100"/>
-<p><small>"For a freer, fairer and more prosperous Mexico."</small></p>
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
+    width = "250" height ="100"/>
+  <figcaption>"For a freer, fairer and more prosperous Mexico."</figcaption>
+</figure>
 </center>
 
 The career's curriculum is focused on **mathematical, probabilistic and statistical** aptitude, enabling to effectively tackle and resolve business, social, and financial issues through astute problem-solving and analysis.
