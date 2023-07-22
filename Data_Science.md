@@ -8,6 +8,7 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 <h3>ITAM</h3>
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
+    width = "250" height ="100"/>
   <figcaption>"For a freer, fairer and more prosperous Mexico."</figcaption>
 </figure>
 </center>
@@ -30,15 +31,15 @@ The diploma program is structured into 5  modules, each paving the way for a dee
     - Probability (Continuous and Discrete Distributions)
     - Inferential Statistics, Bayesian Statistics
     - Montecarlo and Brownian motion 
-***
+<br>
 
 3. DATA SCIENCE
     - Databases and SQL
     - Scientific Python (Information Manipulation, Pipelines)
     - Data Analysis (Pandas, Data Cleaning, WebScrapping, Data Gathering)
-    - Financial Data Analysis (Market Sentiment, Trend Analysis)
+    - Financial Data Analysis (Market Sentiment, Trend Analysis) <br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*
-***
+<br>
 
 4. MACHINE LEARNING
     - Model Selection and Training (Cross-Validation, Regularization, Gradient Descent Method, Normalization)
