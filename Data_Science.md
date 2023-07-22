@@ -6,9 +6,10 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 
 <center>
 <h3>ITAM</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
-width = "250" height ="100"/>
-<p><small>"For a freer, fairer and more prosperous Mexico."</small></p>
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_del_ITAM.svg" 
+  <figcaption>"For a freer, fairer and more prosperous Mexico."</figcaption>
+</figure>
 </center>
 
 <div style='text-align: justify;'>
