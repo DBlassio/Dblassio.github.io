@@ -16,29 +16,27 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 <div style='text-align: justify;'>
 <br/>In this 7-month-long diploma program, we delved into the world of data science and machine learning. We used <b>Python</b> to build sophisticated models. We explored the fundamentals of data science through building our own machine learning models from scratch. With a hands-on approach, we skillfully crafted advanced data models, applying cutting-edge machine learning techniques into a financial perspective.
 
-The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:<br/><br/>></div>
+The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:<br/><br/></div>
 
 1. INTRODUCTION TO PYTHON WITH FINANCE
     - Cycles
     - Functions
     - Standard Libraries
     - Lambda Function, List Comprehensions
-    - Financial Mathematics and Money Market (Bond Valuation, Yield Rates, Risk Measures).<br/>
+    - Financial Mathematics and Money Market (Bond Valuation, Yield Rates, Risk Measures).<br/><br/>
 
 2. STATISTICS, AND PROBABILITY WITH PYTHON
     - Linear Algebra 
     - Probability (Continuous and Discrete Distributions)
     - Inferential Statistics, Bayesian Statistics
-    - Montecarlo and Brownian motion 
-    <br/>
+    - Montecarlo and Brownian motion<br/><br/>
 
 3. DATA SCIENCE
     - Databases and SQL
     - Scientific Python (Information Manipulation, Pipelines)
     - Data Analysis (Pandas, Data Cleaning, WebScrapping, Data Gathering)
     - Financial Data Analysis (Market Sentiment, Trend Analysis) <br>
-    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*
-    <br/>
+    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
 
 4. MACHINE LEARNING
     - Model Selection and Training (Cross-Validation, Regularization, Gradient Descent Method, Normalization)
@@ -48,8 +46,7 @@ The diploma program is structured into 5  modules, each paving the way for a dee
     - Time Series
     - Applications: Unsupervised Fraud Detection, VaR Using ML, Credit Risk and Counterparty Risk Measurement.
     - Portfolio Optimization<br>
-    ***Libraries:** Scikit-Learn, XGBoost, LightGBM, CatBoost*
-    <br/>
+    ***Libraries:** Scikit-Learn, XGBoost, LightGBM, CatBoost*<br/><br/>
 
 5. DEEP LEARNING
     - Activation Functions (Sigmoid, TanH, ReLU)
@@ -60,6 +57,5 @@ The diploma program is structured into 5  modules, each paving the way for a dee
     - Recurrent Neural Networks (LSTM, Vanishing Gradient Problem)
     - Auto-Encoders
     - Applications: Expected Returns, CVA Estimation, LSTM’s for Time Series.<br>
-    ***Libraries:** Tensorflow, Keras, PyTorch*
-    <br/>
+    ***Libraries:** Tensorflow, Keras, PyTorch*<br/><br/>
 
