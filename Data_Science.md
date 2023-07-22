@@ -19,10 +19,7 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:<br/><br/></div>
 
 1. INTRODUCTION TO PYTHON WITH FINANCE
-    - Cycles
-    - Functions
-    - Standard Libraries
-    - Lambda Function, List Comprehensions
+    - Cycles, Functions, Standard Libraries, Lambda Function, List Comprehensions
     - Financial Mathematics and Money Market (Bond Valuation, Yield Rates, Risk Measures).<br/><br/>
 
 2. STATISTICS, AND PROBABILITY WITH PYTHON
