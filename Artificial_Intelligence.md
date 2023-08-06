@@ -14,6 +14,21 @@ width = "300" height ="100"/>
 
 
 <div style='text-align: justify;'>
-<br/>Graduate-level Diploma in Artificial Intelligence: 9-month program offering in-depth instruction in Machine Learning and cutting-edge AI methodologies. Delivered by esteemed faculty and industry experts in the dynamic field of AI.
+<br/>Graduate-level Diploma in Artificial Intelligence: 9-month program offering in-depth instruction in Machine Learning and cutting-edge AI methodologies. Delivered by esteemed faculty and industry experts in the dynamic field of AI.<br/><br/>
 
 The program consists of three courses, with a concentration on:<br/><br/></div>
+
+1. NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING
+    *by Dr. Christopher Manning*
+    - Cycles, Functions, Standard Libraries, Lambda Function, List Comprehensions<br>
+    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
+
+2. MACHINE LEARNING WITH GRAPHS
+    *by Jure Leskovec*
+    - Montecarlo and Brownian motion<br>
+    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
+
+3. DEEP MULTI-TASK AND META LEARNING
+    *by Solovino*
+    - Financial Data Analysis (Market Sentiment, Trend Analysis) <br>
+    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>

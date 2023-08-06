@@ -14,7 +14,7 @@ subtitle: Data Science and Machine Learning applied to Financial Markets
 </center>
 
 <div style='text-align: justify;'>
-<br/>In this 7-month-long diploma program, we delved into the world of data science and machine learning. We used <b>Python</b> to build sophisticated models. We explored the fundamentals of data science through building our own machine learning models from scratch. With a hands-on approach, we skillfully crafted advanced data models, applying cutting-edge machine learning techniques into a financial perspective.
+<br/>In this 7-month-long diploma program, we delved into the world of data science and machine learning. We used <b>Python</b> to build sophisticated models. We explored the fundamentals of data science through building our own machine learning models from scratch. With a hands-on approach, we skillfully crafted advanced data models, applying cutting-edge machine learning techniques into a financial perspective.<br/><br/>
 
 The diploma program is structured into 5  modules, each paving the way for a deeper understanding of this transformative field:<br/><br/></div>
 
