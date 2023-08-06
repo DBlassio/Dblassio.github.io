@@ -18,21 +18,21 @@ width = "300" height ="100"/>
 
 The program consists of three courses, with a concentration on:<br/><br/></div>
 
-1. NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING<br>
+1. **NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING<br>**
     *by Dr. Christopher Manning*
     - Design, implement, and understand NLP neural network models, using the Pytorch framework.
     - Represent word meaning with word vectors, such as Word2Vec, SVD and GloVe.
     - Identify semantic relationships between words in a sentence with dependency parsing.
-    - Large scale word predictions with language models, recurrent neural networks (RNNs), and neural machine translation.
+    - Large scale word predictions with language models, RNNs, and neural machine translation.
     - Pretrain transformers for more efficient natural language processing and understanding.<br>
     ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
 
-2. MACHINE LEARNING WITH GRAPHS<br>
+2. **MACHINE LEARNING WITH GRAPHS<br>**
     *by Dr. Jure Leskovec*
     - Montecarlo and Brownian motion<br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
 
-3. DEEP MULTI-TASK AND META LEARNING<br>
+3. **DEEP MULTI-TASK AND META LEARNING<br>**
     *by Dr. Solovino*
     - Financial Data Analysis (Market Sentiment, Trend Analysis) <br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
