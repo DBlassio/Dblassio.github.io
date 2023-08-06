@@ -18,17 +18,17 @@ width = "300" height ="100"/>
 
 The program consists of three courses, with a concentration on:<br/><br/></div>
 
-1. NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING
+1. NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING<br>
     *by Dr. Christopher Manning*
     - Cycles, Functions, Standard Libraries, Lambda Function, List Comprehensions<br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
 
-2. MACHINE LEARNING WITH GRAPHS
+2. MACHINE LEARNING WITH GRAPHS<br>
     *by Jure Leskovec*
     - Montecarlo and Brownian motion<br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
 
-3. DEEP MULTI-TASK AND META LEARNING
+3. DEEP MULTI-TASK AND META LEARNING<br>
     *by Solovino*
     - Financial Data Analysis (Market Sentiment, Trend Analysis) <br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
