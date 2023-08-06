@@ -20,8 +20,12 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 
 1. NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING<br>
     *by Dr. Christopher Manning*
-    - Cycles, Functions, Standard Libraries, Lambda Function, List Comprehensions<br>
-    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
+    - Design, implement, and understand NLP neural network models, using the Pytorch framework.
+    - Represent word meaning with word vectors, such as Word2Vec, SVD and GloVe.
+    - Identify semantic relationships between words in a sentence with dependency parsing.
+    - Large scale word predictions with language models, recurrent neural networks (RNNs), and neural machine translation.
+    - Pretrain transformers for more efficient natural language processing and understanding.<br>
+    ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
 
 2. MACHINE LEARNING WITH GRAPHS<br>
     *by Dr. Jure Leskovec*
