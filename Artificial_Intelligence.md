@@ -25,7 +25,7 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
     - Identify semantic relationships between words in a sentence with dependency parsing.
     - Large scale word predictions with language models, RNNs, and neural machine translation.
     - Pretrain transformers for more efficient natural language processing and understanding.<br>
-    ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
+  ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
 
 2. **MACHINE LEARNING WITH GRAPHS<br>**
     *by Dr. Jure Leskovec*
