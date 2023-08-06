@@ -24,11 +24,11 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
 
 2. MACHINE LEARNING WITH GRAPHS<br>
-    *by Jure Leskovec*
+    *by Dr. Jure Leskovec*
     - Montecarlo and Brownian motion<br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
 
 3. DEEP MULTI-TASK AND META LEARNING<br>
-    *by Solovino*
+    *by Dr. Solovino*
     - Financial Data Analysis (Market Sentiment, Trend Analysis) <br>
     ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
