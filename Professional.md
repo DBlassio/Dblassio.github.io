@@ -7,6 +7,7 @@
 
 {: .box-note}
 **Data Scientist, [Marsh McLennan](https://www.marshmclennan.com)** <span style="font-size: .9rem">(Mar 2022-Present)</span>
+Member of Corporate Information Solutions (CIS) as part of MMC Technology team working to research and develop use cases to drive corporate innovation, especifically in Machine Learning, Data Science and Automation. 
 
 
 {: .box-note}
