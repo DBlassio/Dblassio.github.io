@@ -9,10 +9,10 @@
 **Data Scientist, [Marsh McLennan](https://www.marshmclennan.com) (Mar 2022-Present)**
 
 {: .box-note}
-**GetIn**
+**Data Analyst, [GetIn](https://getin.mx) (Oct 2019 - Mar 2022 • 2 yrs 6 mos)**
 
 {: .box-note}
-**MetLife**
+**Back Office Trainee, [Metlife](https://www.metlife.com) (Jan 2018 - Jul 2019 • 1 yr 7 mos)**
 
 {: .box-note}
-**Metrofinanciera**
+**Finance Trainee, [Metrofinaciera](https://metrofinanciera.com.mx) (May 2016 - Aug 2016 • 4 mos)**
