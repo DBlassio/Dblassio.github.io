@@ -1,6 +1,5 @@
----
-layout: page
-title: Professional Background
----
+<center>
+# Professional Background
+</center>
 
 *in maintenance.*
