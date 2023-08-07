@@ -2,4 +2,12 @@
 # Professional Background
 </center>
 
-*in maintenance.*
+
+
+## Marsh McLennan
+
+## GetIn
+
+## MetLife
+
+## Metrofinanciera
