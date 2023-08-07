@@ -5,11 +5,14 @@
 </center>
 
 
+{: .box-note}
+**Marsh McLennan**
 
-## Marsh McLennan
+{: .box-note}
+**GetIn**
 
-## GetIn
+{: .box-note}
+**MetLife**
 
-## MetLife
-
-## Metrofinanciera
+{: .box-note}
+**Metrofinanciera**
