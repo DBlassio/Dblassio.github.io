@@ -1,7 +1,7 @@
 <center>
 <header><h1>Professional Background</h1>
 </header>
-<h5>(From recent to oldest)</h5>
+<h6>(From recent to oldest)</h6>
 </center>
 
 
