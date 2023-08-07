@@ -18,22 +18,23 @@ width = "300" height ="100"/>
 
 The program consists of three courses, with a concentration on:<br/><br/></div>
 
-1. **NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING<br>**
-    *by Dr. Christopher Manning*
-    - Design, implement, and understand NLP neural network models, using the Pytorch framework.
-    - Represent word meaning with word vectors, such as Word2Vec, SVD and GloVe.
-    - Identify semantic relationships between words in a sentence with dependency parsing.
-    - Large scale word predictions with language models, RNNs, and neural machine translation and attention.
-    - Pretrain transformers for more efficient natural language processing and understanding.<br>
+{: .box-note}
+**NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING**
 
-    {: .box-note}
-    **Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention.
+*by Dr. Christopher Manning*
+- Design, implement, and understand NLP neural network models, using the Pytorch framework.
+- Represent word meaning with word vectors, such as Word2Vec, SVD and GloVe.
+- Identify semantic relationships between words in a sentence with dependency parsing.
+- Large scale word predictions with language models, RNNs, and neural machine translation and attention.
+- Pretrain transformers for more efficient natural language processing and understanding.<br>
+
+***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention.*
 
 
-<br/><br/>  
+<br/>
 
 {: .box-note}
-**MACHINE LEARNING WITH GRAPHS<br>**
+**MACHINE LEARNING WITH GRAPHS**
 
 *by Dr. Jure Leskovec*
 - More accurate machine learning models by underlying relational structures of your data. Node and edge embeddings and classification.
@@ -41,11 +42,14 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 - Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. Knowledge Graphs.
 - Neural networks with generative models for graphs. Deep Generative Models for Graphs.<br/>
 
-***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.*<br/><br/>
+***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.*
 
-3. **DEEP MULTI-TASK AND META LEARNING<br>**
-    *by Dr. Solovino*
-    - ON PROGRESS. <br>
+<br/>
 
-    {: .box-note}
-    **Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.
+{: .box-note}
+**DEEP MULTI-TASK AND META LEARNING**
+
+*by Dr. Solovino*
+- ON PROGRESS. <br>
+
+***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.*
