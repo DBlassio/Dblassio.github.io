@@ -35,14 +35,14 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 {: .box-note}
 2. **MACHINE LEARNING WITH GRAPHS<br>**
 
-    *by Dr. Jure Leskovec*
-    - More accurate machine learning models by underlying relational structures of your data. Node and edge embeddings and classification.
-    - Traditional methods for machine learning on graphs, such as node embeddings and PageRank. Representation Learning.
-    - Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. Knowledge Graphs.
-    - Neural networks with generative models for graphs. Deep Generative Models for Graphs.<br/>
+*by Dr. Jure Leskovec*
+- More accurate machine learning models by underlying relational structures of your data. Node and edge embeddings and classification.
+- Traditional methods for machine learning on graphs, such as node embeddings and PageRank. Representation Learning.
+- Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. Knowledge Graphs.
+- Neural networks with generative models for graphs. Deep Generative Models for Graphs.<br/>
 
-    {: .box-note}
-    **Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.
+{: .box-note}
+**Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.
 
 <br/><br/>
 
