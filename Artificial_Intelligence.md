@@ -32,7 +32,9 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 
 <br/><br/>  
 
+{: .box-note}
 2. **MACHINE LEARNING WITH GRAPHS<br>**
+
     *by Dr. Jure Leskovec*
     - More accurate machine learning models by underlying relational structures of your data. Node and edge embeddings and classification.
     - Traditional methods for machine learning on graphs, such as node embeddings and PageRank. Representation Learning.
@@ -47,6 +49,6 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 3. **DEEP MULTI-TASK AND META LEARNING<br>**
     *by Dr. Solovino*
     - ON PROGRESS. <br>
-    
+
     {: .box-note}
     **Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.
