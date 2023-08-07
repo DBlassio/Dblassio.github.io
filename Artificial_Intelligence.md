@@ -25,7 +25,12 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
     - Identify semantic relationships between words in a sentence with dependency parsing.
     - Large scale word predictions with language models, RNNs, and neural machine translation and attention.
     - Pretrain transformers for more efficient natural language processing and understanding.<br>
-    ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
+
+    {: .box-note}
+    **Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention.
+
+
+<br/><br/>  
 
 2. **MACHINE LEARNING WITH GRAPHS<br>**
     *by Dr. Jure Leskovec*
@@ -33,12 +38,15 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
     - Traditional methods for machine learning on graphs, such as node embeddings and PageRank. Representation Learning.
     - Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. Knowledge Graphs.
     - Neural networks with generative models for graphs. Deep Generative Models for Graphs.<br/>
-    
+
     {: .box-note}
     **Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.
-    <br/><br/>  
+
+<br/><br/>
 
 3. **DEEP MULTI-TASK AND META LEARNING<br>**
     *by Dr. Solovino*
     - ON PROGRESS. <br>
-    ***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
+    
+    {: .box-note}
+    **Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.
