@@ -22,12 +22,11 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 **NATURAL LANGUAGE PROCESSING WITH DEEP LEARNING**
 
 *by Dr. Christopher Manning*
-<div style='text-align: justify;'>
 - Design, implement, and understand NLP neural network models, using the Pytorch framework.
 - Represent word meaning with word vectors, such as Word2Vec, SVD and GloVe.
 - Identify semantic relationships between words in a sentence with dependency parsing.
 - Large scale word predictions with language models, RNNs, and neural machine translation and attention.
-- Pretrain transformers for more efficient natural language processing and understanding.<br></div>
+- Pretrain transformers for more efficient natural language processing and understanding.<br>
 
 ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention.*
 
@@ -38,11 +37,10 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 **MACHINE LEARNING WITH GRAPHS**
 
   *by Dr. Jure Leskovec*
-  <div style='text-align: justify;'>
   - More accurate machine learning models by underlying relational structures of your data. Node and edge embeddings and classification.
   - Traditional methods for machine learning on graphs, such as node embeddings and PageRank. Representation Learning.
   - Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. Knowledge Graphs.
-  - Neural networks with generative models for graphs. Deep Generative Models for Graphs.<br/></div>
+  - Neural networks with generative models for graphs. Deep Generative Models for Graphs.
 
   ***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.*
 
@@ -52,7 +50,6 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 **DEEP MULTI-TASK AND META LEARNING**
 
 *by Dr. Solovino*
-<div style='text-align: justify;'>
-- ON PROGRESS. <br></div>
+- ON PROGRESS. <br>
 
 ***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.*
