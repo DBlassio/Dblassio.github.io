@@ -25,12 +25,15 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
     - Identify semantic relationships between words in a sentence with dependency parsing.
     - Large scale word predictions with language models, RNNs, and neural machine translation.
     - Pretrain transformers for more efficient natural language processing and understanding.<br>
-***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
+    ***Libraries:** nltk, sentencepiece, Pytorch: nn.transformer, nn.linear, nn.LSTM, nn.MultiheadAttention*<br/><br/>
 
 2. **MACHINE LEARNING WITH GRAPHS<br>**
     *by Dr. Jure Leskovec*
-    - Montecarlo and Brownian motion.
-***Libraries:** Numpy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels*<br/><br/>
+    - More accurate machine learning models by underlying relational structures of your data. Node and edge types in knowledge graphs.
+    - Traditional methods for machine learning on graphs, such as node embeddings and PageRank.
+    - Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. 
+    - Neural networks with generative models for graphs.
+    ***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib*<br/><br/>
 
 3. **DEEP MULTI-TASK AND META LEARNING<br>**
     *by Dr. Solovino*
