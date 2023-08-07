@@ -6,7 +6,7 @@
 
 
 {: .box-note}
-**Data Scientist, Mar 2022 - Present, [Marsh McLennan](https://www.marshmclennan.com)**
+**Data Scientist, [Marsh McLennan](https://www.marshmclennan.com) (Mar 2022-Present)**
 
 {: .box-note}
 **GetIn**
