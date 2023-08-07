@@ -33,3 +33,6 @@ Within the program, there were also courses designed to provide us with the abil
 - IDEAS AND POLITICAL AND SOCIAL INSTITUTIONS
 - ISSUES IN CONTEMPORARY CIVILIZATION
 - SOCIO-POLITICAL HISTORY OF MEXICO
+
+### Thesis Degree:
+**Application of an ARIMAX Time Series Model for the Prediction of Affluence Behavior in the Retail Industry.**
