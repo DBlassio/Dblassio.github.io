@@ -33,7 +33,10 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
     - Traditional methods for machine learning on graphs, such as node embeddings and PageRank. Representation Learning.
     - Using PyTorch Geometric leverage graph-structured data and make better predictions using graph neural networks. Knowledge Graphs.
     - Neural networks with generative models for graphs. Deep Generative Models for Graphs.<br/>
-    ***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib*<br/><br/>
+    **Libraries:**[networkx,torch_geometric,torch_sparse,scikit-learn,deepsnap,matplotlib]<br/><br/>
+
+    
+       
 
 3. **DEEP MULTI-TASK AND META LEARNING<br>**
     *by Dr. Solovino*
