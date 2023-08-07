@@ -6,13 +6,13 @@
 
 
 {: .box-note}
-**Data Scientist**, [Marsh McLennan](https://www.marshmclennan.com) (Mar 2022-Present)
+**Data Scientist, [Marsh McLennan](https://www.marshmclennan.com)** <h6>(Mar 2022-Present)</h6>
 
 {: .box-note}
-**Data Analyst**, [GetIn](https://getin.mx) (Oct 2019 - Mar 2022 • 2 yrs 6 mos)
+**Data Analyst, [GetIn](https://getin.mx)** (Oct 2019 - Mar 2022 • 2 yrs 6 mos)
 
 {: .box-note}
-**Back Office Trainee**, [Metlife](https://www.metlife.com) (Jan 2018 - Jul 2019 • 1 yr 7 mos)
+**Back Office Trainee, [Metlife](https://www.metlife.com)** (Jan 2018 - Jul 2019 • 1 yr 7 mos)
 
 {: .box-note}
-**Finance Trainee**, [Metrofinaciera](https://metrofinanciera.com.mx) (May 2016 - Aug 2016 • 4 mos)
+**Finance Trainee, [Metrofinaciera](https://metrofinanciera.com.mx)** (May 2016 - Aug 2016 • 4 mos)
