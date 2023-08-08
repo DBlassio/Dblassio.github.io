@@ -49,7 +49,7 @@ The program consists of three courses, with a concentration on:<br/><br/></div>
 {: .box-note}
 **DEEP MULTI-TASK AND META LEARNING**
 
-*by Dr. Solovino*
+*by Dr. Chelsea Finn*
 - ON PROGRESS. <br>
 
 ***Libraries:** networkx, torch_geometric, torch_sparse, scikit-learn, deepsnap, matplotlib.*
