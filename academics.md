@@ -29,7 +29,7 @@ Artificial Intelligence Professional Program
 <span style="float:right; font-size:1rem;">2023</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
-Stanford University, USA <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Flag_of_the_United_States.svg" width="20" height="14" alt="USA Flag">
+Stanford University, USA <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg" width="20" height="14" alt="USA Flag">
 </div>
 <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Graduate-level diploma in AI with focus on NLP, Graph ML, and Deep Multi-Task & Meta Learning.
