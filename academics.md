@@ -2,13 +2,16 @@
 <header><h1>Academics</h1></header>
 </center>
 
-<br/>
-
 <!-- MSc NeuroAI -->
-<div class="box-note">
-<b>MSc Modeling for Neuronal and Cognitive Systems</b><br/>
-<b>Université Côte d'Azur, France</b> (Jul 2026)  
-<div style="font-size:1.1rem; text-align: justify;">
+<div class="box-note" style="margin-bottom:2rem;">
+<div style="font-size:1.4rem; font-weight:bold;">
+MSc Modeling for Neuronal and Cognitive Systems
+<span style="float:right; font-size:1rem;">Jul 2026</span>
+</div>
+<div style="font-size:1rem; font-weight:bold;">
+Université Côte d'Azur, France 🇫🇷
+</div>
+<div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI analysis, dynamic functional connectivity, brain-state clustering, and multimodal deep learning.
 </div>
 <div style="font-size:0.9rem; margin-top:0.5rem;">
@@ -20,10 +23,15 @@ Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI 
 <hr/>
 
 <!-- Stanford AI Program -->
-<div class="box-note">
-<b>Artificial Intelligence Professional Program</b><br/>
-<b>Stanford University, USA</b> (2023)  
-<div style="font-size:1.1rem; text-align: justify;">
+<div class="box-note" style="margin-bottom:2rem;">
+<div style="font-size:1.4rem; font-weight:bold;">
+Artificial Intelligence Professional Program
+<span style="float:right; font-size:1rem;">2023</span>
+</div>
+<div style="font-size:1rem; font-weight:bold;">
+Stanford University, USA 🇺🇸
+</div>
+<div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Graduate-level diploma in AI with focus on NLP, Graph ML, and Deep Multi-Task & Meta Learning.
 </div>
 <div style="font-size:0.9rem; margin-top:0.5rem;">
@@ -35,10 +43,15 @@ Graduate-level diploma in AI with focus on NLP, Graph ML, and Deep Multi-Task & 
 <hr/>
 
 <!-- Data Science & ML Diploma -->
-<div class="box-note">
-<b>Data Science & Machine Learning Program</b><br/>
-<b>ITAM, Mexico</b> (2021)  
-<div style="font-size:1.1rem; text-align: justify;">
+<div class="box-note" style="margin-bottom:2rem;">
+<div style="font-size:1.4rem; font-weight:bold;">
+Data Science & Machine Learning Program
+<span style="float:right; font-size:1rem;">2021</span>
+</div>
+<div style="font-size:1rem; font-weight:bold;">
+ITAM, Mexico 🇲🇽
+</div>
+<div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 7-month program applying ML to financial markets: supervised/unsupervised models, ensemble learning, deep learning (CNN, RNN, LSTM), time series, fraud detection, portfolio optimization.
 </div>
 <div style="font-size:0.9rem; margin-top:0.5rem;">
@@ -49,10 +62,15 @@ Graduate-level diploma in AI with focus on NLP, Graph ML, and Deep Multi-Task & 
 <hr/>
 
 <!-- BSc Actuarial Science -->
-<div class="box-note">
-<b>BSc Actuarial Science</b><br/>
-<b>ITAM, Mexico</b> (2019)  
-<div style="font-size:1.1rem; text-align: justify;">
+<div class="box-note" style="margin-bottom:2rem;">
+<div style="font-size:1.4rem; font-weight:bold;">
+BSc Actuarial Science
+<span style="float:right; font-size:1rem;">2019</span>
+</div>
+<div style="font-size:1rem; font-weight:bold;">
+ITAM, Mexico 🇲🇽
+</div>
+<div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Focused on mathematics, statistics, probability, risk theory, financial modeling, algorithmics, and applied statistics.
 </div>
 <div style="font-size:0.9rem; margin-top:0.5rem;">
