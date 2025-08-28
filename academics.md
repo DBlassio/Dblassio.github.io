@@ -2,8 +2,10 @@
 <header><h1>Academics</h1></header>
 </center>
 
+<br/>
+
 <!-- MSc NeuroAI -->
-<div class="box-note" style="margin-bottom:2rem;">
+<div style="margin-bottom:2rem;">
 <div style="font-size:1.4rem; font-weight:bold;">
 MSc Modeling for Neuronal and Cognitive Systems
 <span style="float:right; font-size:1rem;">Jul 2026</span>
@@ -23,7 +25,7 @@ Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI 
 <hr/>
 
 <!-- Stanford AI Program -->
-<div class="box-note" style="margin-bottom:2rem;">
+<div style="margin-bottom:2rem;">
 <div style="font-size:1.4rem; font-weight:bold;">
 Artificial Intelligence Professional Program
 <span style="float:right; font-size:1rem;">2023</span>
@@ -43,7 +45,7 @@ Graduate-level diploma in AI with focus on NLP, Graph ML, and Deep Multi-Task & 
 <hr/>
 
 <!-- Data Science & ML Diploma -->
-<div class="box-note" style="margin-bottom:2rem;">
+<div style="margin-bottom:2rem;">
 <div style="font-size:1.4rem; font-weight:bold;">
 Data Science & Machine Learning Program
 <span style="float:right; font-size:1rem;">2021</span>
@@ -62,7 +64,7 @@ ITAM, Mexico <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_
 <hr/>
 
 <!-- BSc Actuarial Science -->
-<div class="box-note" style="margin-bottom:2rem;">
+<div style="margin-bottom:2rem;">
 <div style="font-size:1.4rem; font-weight:bold;">
 BSc Actuarial Science
 <span style="float:right; font-size:1rem;">2019</span>
