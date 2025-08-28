@@ -21,13 +21,13 @@ author: Diego Zuniga
 
 navbar-links:
   Profile: "profile"
-  Experience: "Professional"
-  Education:
+  Career: "Professional"
+  Academics:
     - Actuarial Science: "Bachelor"
     - Data Science: "Data_Science"
     - Artificial Intelligence: "Artificial_Intelligence"
     - Neuroscience: "Neuroscience"
-  Portfolio: "Portfolio"
+  Applied Projects: "Portfolio"
 
 ################
 # --- Logo --- #
