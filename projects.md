@@ -1,18 +1,12 @@
----
-layout: page
-title: Applied Projects
----
-
 <center>
 <h1>Applied Projects</h1>
+<h6>(From recent to oldest)</h6>
 </center>
-
-<b/>
 
 <!-- Proyecto 1 -->
 <div style="margin-bottom:2rem;">
 <div style="font-size:1.3rem; font-weight:bold;">
-Dynamical Structure-Function Correlations of fMRI Human Brain Signals under LSD
+1. Dynamical Structure-Function Correlations of fMRI Human Brain Signals under LSD
 <span style="float:right; font-size:1rem;">Aug 2025</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
@@ -35,7 +29,7 @@ Studied the effect of LSD on dynamic brain functional states using phase-based f
 <!-- Proyecto 2 -->
 <div style="margin-bottom:2rem;">
 <div style="font-size:1.3rem; font-weight:bold;">
-Multimodal NLP Models for NeuroAI Applications
+2. Multimodal NLP Models for NeuroAI Applications
 <span style="float:right; font-size:1rem;">Feb 2026 (Planned)</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
