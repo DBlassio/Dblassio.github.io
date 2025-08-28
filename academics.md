@@ -6,20 +6,21 @@
 
 <!-- MSc NeuroAI -->
 <div style="margin-bottom:2rem;">
-<div style="font-size:1.4rem; font-weight:bold;">
-MSc Modeling for Neuronal and Cognitive Systems
-<span style="float:right; font-size:1rem;">2026</span>
-</div>
-<div style="font-size:1rem; font-weight:bold;">
-Université Côte d'Azur, France <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20" height="14" alt="France Flag">
-</div>
-<div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
-Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI analysis, dynamic functional connectivity, brain-state clustering, and multimodal deep learning.
-</div>
-<div style="font-size:0.9rem; margin-top:0.5rem;">
-<b>Key Experience:</b> INRIA internships (CRONOS: computational brain dynamics; MARIANNE: multimodal NLP & NeuroAI)<br/>
-<b>Tools & Skills:</b> Python (numpy, scipy, pandas), PyTorch, EEG/fMRI signal processing, phase coherence, clustering, statistical analysis, reproducible research, Git/GitHub, LaTeX/Overleaf
-</div>
+  <div style="font-size:1.4rem; font-weight:bold;">
+    MSc Modeling for Neuronal and Cognitive Systems
+    <span style="float:right; font-size:1rem;">2026</span>
+  </div>
+  <div style="font-size:1rem; font-weight:bold;">
+    Université Côte d'Azur, France <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20" height="14" alt="France Flag">
+  </div>
+  <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
+    Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI analysis, dynamic functional connectivity, brain-state clustering, and multimodal deep learning.
+  </div>
+  <div style="font-size:0.9rem; margin-top:0.5rem;">
+    <b>Key Experience:</b> INRIA internships (CRONOS: computational brain dynamics; MARIANNE: multimodal NLP & NeuroAI)<br/>
+    <b>Tools & Skills:</b> Python (numpy, scipy, pandas), PyTorch, EEG/fMRI signal processing, phase coherence, clustering, statistical analysis, reproducible research, Git/GitHub, LaTeX/Overleaf<br/>
+    <span style="color:#007ACC;">🏆 Excellence Scholarship from the NeuroMod Institute (€4,000)</span>
+  </div>
 </div>
 
 <hr/>

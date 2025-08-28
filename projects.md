@@ -1,6 +1,5 @@
 <center>
 <h1>Applied Projects</h1>
-<h6>(From recent to oldest)</h6>
 </center>
 
 <!-- Proyecto 1 -->
