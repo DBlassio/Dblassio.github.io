@@ -9,7 +9,7 @@ MSc Modeling for Neuronal and Cognitive Systems
 <span style="float:right; font-size:1rem;">Jul 2026</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
-Université Côte d'Azur, France 🇫🇷
+Université Côte d'Azur, France <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20" height="14" alt="France Flag">
 </div>
 <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI analysis, dynamic functional connectivity, brain-state clustering, and multimodal deep learning.
@@ -29,7 +29,7 @@ Artificial Intelligence Professional Program
 <span style="float:right; font-size:1rem;">2023</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
-Stanford University, USA 🇺🇸
+Stanford University, USA <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Flag_of_the_United_States.svg" width="20" height="14" alt="USA Flag">
 </div>
 <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Graduate-level diploma in AI with focus on NLP, Graph ML, and Deep Multi-Task & Meta Learning.
@@ -49,7 +49,7 @@ Data Science & Machine Learning Program
 <span style="float:right; font-size:1rem;">2021</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
-ITAM, Mexico 🇲🇽
+ITAM, Mexico <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="20" height="14" alt="Mexico Flag">
 </div>
 <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 7-month program applying ML to financial markets: supervised/unsupervised models, ensemble learning, deep learning (CNN, RNN, LSTM), time series, fraud detection, portfolio optimization.
@@ -68,7 +68,7 @@ BSc Actuarial Science
 <span style="float:right; font-size:1rem;">2019</span>
 </div>
 <div style="font-size:1rem; font-weight:bold;">
-ITAM, Mexico 🇲🇽
+ITAM, Mexico <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="20" height="14" alt="Mexico Flag">
 </div>
 <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
 Focused on mathematics, statistics, probability, risk theory, financial modeling, algorithmics, and applied statistics.
