@@ -20,7 +20,7 @@ author: Diego Zuniga
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Profile: "profile"
   Experience: "Professional"
   Education:
     - Actuarial Science: "Bachelor"

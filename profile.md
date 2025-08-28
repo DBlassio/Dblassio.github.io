@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Profile
 ---
 
 <div style='text-align: justify;'>
