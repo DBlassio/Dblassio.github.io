@@ -2,7 +2,7 @@
 <header><h1>Professional Experience</h1></header>
 </center>
 
-<br/><br/> <!-- Salto de página entre título y primer puesto -->
+<br/>
 
 <div style="display: flex; flex-direction: column; gap: 30px;">
 
