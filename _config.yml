@@ -22,8 +22,8 @@ author: Diego Zuniga
 navbar-links:
   Profile: "profile"
   Career: "career"
-  Academics: "academics"
   Applied Projects: "projects"
+  Academics: "academics"
 
 ################
 # --- Logo --- #

@@ -35,7 +35,7 @@ Studied the effect of LSD on dynamic brain functional states using phase-based f
 INRIA - MARIANNE Team, France
 </div>
 <div style="font-size:0.95rem; margin-top:0.2rem;">
-Supervisor: Serena Villata | Team: MARIANNE - multimodal NLP & AI applied to brain research
+Supervisor: Dr. Serena Villata | Team: MARIANNE - multimodal NLP & AI applied to brain research
 </div>
 <div style="font-size:1.05rem; text-align: justify; margin-top:0.5rem;">
 Developing and evaluating multimodal NLP models that integrate speech, text, tone, and video signals for neural data applications. Focus on language-neural representation alignment and transfer learning for NeuroAI tasks.
