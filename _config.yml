@@ -22,11 +22,7 @@ author: Diego Zuniga
 navbar-links:
   Profile: "profile"
   Career: "career"
-  Academics:
-    - Actuarial Science: "acturial_science"
-    - Data Science: "data_science"
-    - Artificial Intelligence: "artificial_intelligence"
-    - Neuroscience: "neuroscience"
+  Academics: "academics"
   Applied Projects: "projects"
 
 ################
