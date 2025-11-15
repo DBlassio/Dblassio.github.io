@@ -80,9 +80,9 @@ h1.page-title {
     <h2>Multimodal Argument Mining for Stance Detection</h2>
     <span class="project-date">Feb 2026 (On-going)</span>
   </div>
-  <div class="project-institution">INRIA, CNRS, i3S - MARIANNE Team, France</div>
+  <div class="project-institution">INRIA, CNRS, i3S - France</div>
   <div class="project-supervisor">
-    Supervisor: Dr. Serena Villata | Team: MARIANNE – Computational argumentation in natural language
+    Supervisor: Dr. Serena Villata | Team: MARIANNE – Computational Argumentation in Natural Language
   </div>
   <p class="project-description">
     Researching how linguistic and visual information jointly shape persuasive communication. Building multimodal models that integrate text + images for stance classification. Implementing transformer models (LLMs/VLMs), with computer vision techniques and early/intermediate/late fusion, to analyze how images modify argumentative intent and stance polarity (Abortion / Gun Control).
@@ -99,15 +99,15 @@ h1.page-title {
     <h2>Dynamical Structure-Function Correlations of fMRI Human Brain Signals under LSD</h2>
     <span class="project-date">Aug 2025</span>
   </div>
-  <div class="project-institution">INRIA - CRONOS Team, France</div>
+  <div class="project-institution">INRIA - France</div>
   <div class="project-supervisor">
-    Supervisor: Dr. Rodrigo Cofré | Team: CRONOS - computational neuroscience & brain dynamics
+    Supervisor: Dr. Rodrigo Cofré | Team: CRONOS - Computational Neuroscience & Brain Dynamics
   </div>
   <p class="project-description">
-    Studied the effect of LSD on dynamic brain functional states using phase-based fMRI connectivity, clustering, and statistical analysis. Computed fractional occupancy, state transitions, Markov chain entropy, and structure-function correlations.
+    Research on how LSD alters dynamic brain functional states using phase-based fMRI connectivity. Applied unsupervised learning with k-means clustering on phase coherence vectors to identify canonical brain states, capturing recurrent dynamic patterns. Designed modular Python pipelines for reproducible analysis and intuitive visualization of altered conscious states.
   </p>
   <div class="project-skills">
-    <strong>Skills & Tools:</strong> Python (numpy, scipy, pandas, scikit-learn, matplotlib, seaborn), EEG/fMRI signal processing, Hilbert transform, K-means clustering, statistical tests, Git/GitHub, LaTeX<br/>
+    <strong>Skills & Tools:</strong> Python, scipy, scikit-learn, seaborn, time series analysis, EEG/fMRI signal processing, Hilbert transform, K-means clustering, statistical tests.<br/>
     <strong>Repo / Docs:</strong> <a href="https://github.com/DBlassio/phase_coherance_consciousness">GitHub</a>
   </div>
 </div>
