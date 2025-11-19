@@ -19,7 +19,7 @@
   <div style="font-size:0.9rem; margin-top:0.5rem;">
     <b>Key Experience:</b> INRIA internships (CRONOS: computational brain dynamics; MARIANNE: multimodal NLP & NeuroAI)<br/>
     <b>Tools & Skills:</b> Python (numpy, scipy, pandas), PyTorch, EEG/fMRI signal processing, phase coherence, clustering, statistical analysis, reproducible research, Git/GitHub, LaTeX/Overleaf<br/>
-    <span style="color:#007ACC;">🏆 Excellence Scholarship from the NeuroMod Institute </span>
+    <span style="color:#007ACC;">🏆 Excellence Scholarship from the NeuroMod Institute </span><br>
     <span style="color:#007ACC;">🏆 Excellence Scholarship in Artificial Intelligence from EFELIA </span>
   </div>
 </div>
