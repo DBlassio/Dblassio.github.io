@@ -87,7 +87,7 @@ h1.page-title {
     <h2>Multimodal Argument Mining for Stance Detection</h2>
   </div>
   <div class="project-institution">INRIA, CNRS, i3S — France</div>
-  <div class="project-supervisor">Supervisor: Dr. Serena Villata | MARIANNE Team</div>
+  <div class="project-supervisor">Supervisor: HDR. Serena Villata | MARIANNE Team</div>
   <p class="project-description">
       Does an image change what a tweet is arguing, or just decorate 
       it? I built and benchmarked text-only, vision-only, and multimodal 
