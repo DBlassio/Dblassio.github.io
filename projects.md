@@ -89,18 +89,12 @@ h1.page-title {
   <div class="project-institution">INRIA, CNRS, i3S — France</div>
   <div class="project-supervisor">Supervisor: Dr. Serena Villata | MARIANNE Team</div>
   <p class="project-description">
-    Does an image change what a tweet is arguing? I built and compared 
-    text-only, vision-only, and multimodal architectures on the ImageArg 
-    dataset (tweets on gun control and abortion) to find out. Along the 
-    way, I found the dataset itself had a labelling problem — re-annotating 
-    it with two independent annotators (Fleiss' κ = 0.865) alone produced 
-    a +8.7 F1 point jump across every model tested. Final result: text 
-    alone hits F1 = 0.933, but a CLIP vision-only model reaches F1 = 0.725 
-    — proof that images carry real argumentative signal on their own.
+    Does an image change what a tweet is arguing? I built and compared text-only, vision-only,
+    and multimodal architectures on the ImageArg dataset (tweets on gun control and abortion) to find out. Along the way, I found text alone hits F1 = 0.933, but a CLIP vision-only model reaches F1 = 0.725, proof that images carry real argumentative signal on their own.
   </p>
   <p class="project-publication">
     📄 Published at <strong>COMMA 2026</strong> — <em>"Multimodal Stance 
-    Detection in Controversial Tweets"</em> (link coming soon)
+    Detection in Controversial Tweets"</em>
   </p>
   <div class="project-skills">
     <strong>Skills & Tools:</strong> Python, PyTorch, DeBERTa-v3, CLIP/BLIP/ALIGN, 
@@ -116,20 +110,18 @@ h1.page-title {
   </div>
   <div class="project-institution">PRHLT Research Center, UPV — Spain</div>
   <p class="project-description">
-    Sexism in memes doesn't just live in the text or the image — so I 
+    Sexism in memes doesn't just live in the text or the image, so I 
     built a system that also reads how people's brains and eyes respond 
     to them. This project fuses text, image, EEG, and eye-tracking 
     signals through a gated fusion mechanism that learns, per meme, how 
-    much to trust each modality — no post-hoc explanation needed, the 
-    weights are the explanation. The gates converged on a clear, 
-    reproducible hierarchy: image dominates (β ≈ 0.98), EEG adds real 
-    complementary signal (α ≈ 0.48), eye-tracking gets mostly ignored 
-    once EEG is present (λ ≈ 0.03).
+    much to trust each modality, the weights are the explanation. The gates converged 
+    on a clear, reproducible hierarchy: image dominates (β ≈ 0.98), EEG adds real 
+    complementary signal (α ≈ 0.48), eye-tracking gets mostly ignored once EEG is present (λ ≈ 0.03).
   </p>
   <p class="project-publication">
-    📄 Published at <strong>CLEF 2026</strong> (EXIST Lab) — <em>"Gated 
+    📄 Published at <strong>CLEF 2026</strong> — <em>"Gated 
     Multimodal Fusion with Neurophysiological Signals for Sexism 
-    Detection in Memes"</em> — sole author (link coming soon)
+    Detection in Memes"</em> — sole author
   </p>
   <div class="project-skills">
     <strong>Skills & Tools:</strong> Python, PyTorch, mDeBERTa-v3, ALIGN, 
@@ -141,17 +133,17 @@ h1.page-title {
 <!-- Proyecto 3 -->
 <div class="project-card">
   <div class="project-header">
-    <h2>EEG Spatial Gates — Topographic Transformer <span style="font-size:0.75rem;font-weight:500;color:#0070f3;">(Ongoing)</span></h2>
+    <h2>EEG Spatial Gates (Topographic Transformer) </h2>
   </div>
   <div class="project-institution">PRHLT Research Center, UPV — Spain</div>
   <div class="project-supervisor">Supervisors: Prof. Paolo Rosso, Dr. Marco Siino</div>
   <p class="project-description">
     A direct extension of my CLEF 2026 work: what if EEG isn't just 80 
-    flat numbers, but a brain with actual geography? I'm building a 
+    flat numbers, but a brain with actual geography? I built a 
     spatial EEG Transformer that treats each of the 16 electrodes as a 
     token with topographic positional embeddings, testing whether 
-    preserving that spatial structure — and gating per channel instead 
-    of per modality — reveals which brain regions actually respond to 
+    preserving that spatial structure, and gating per channel instead 
+    of per modality, reveals which brain regions actually respond to 
     sexist content. Four architectures, increasing complexity, same 
     question throughout: does the brain's geometry matter, or is a flat 
     vector just as good?
@@ -166,21 +158,19 @@ h1.page-title {
 <!-- Proyecto 4 -->
 <div class="project-card">
   <div class="project-header">
-    <h2>RAG From Scratch — arXiv Research Assistant <span style="font-size:0.75rem;font-weight:500;color:#0070f3;">(Ongoing)</span></h2>
+    <h2>RAG arXiv Research Assistant <span style="font-size:0.75rem;font-weight:500;color:#0070f3;">(Ongoing)</span></h2>
   </div>
-  <div class="project-institution">Independent Project</div>
+  <div class="project-institution"></div>
   <p class="project-description">
-    Most RAG tutorials stop at "embed some docs, cosine search, hope for 
-    the best." I wanted to know what actually breaks — silently — 
-    between a raw document and an answer you can trust. Built from 
-    scratch: tokenizer-aware chunking (measured in the embedding model's 
-    own tokens, not raw characters — the usual silent failure point), 
-    BGE embeddings with correctly-matched cosine indexing in ChromaDB, 
-    and grounded generation that explicitly refuses to answer when the 
-    evidence isn't there instead of hallucinating a plausible-sounding 
-    guess. Verified end-to-end: it correctly refuses off-topic queries 
-    and correctly cites exact figures when the evidence is strong. 
-    RAGAS evaluation and API deployment in progress.
+      Here is an AI research assistant that answers questions over a corpus of 
+      arXiv papers, grounded strictly in what's actually in the papers, 
+      nothing else. I care about knowing what a model actually relies 
+      on, not assuming it works, so every layer here is verifiable: 
+      tokenizer-aware chunking, cosine-matched indexing, and generation
+      that refuses to answer when the retrieved evidence doesn't support it. 
+      Tested it explicitly: it declines off-topic questions with no hallucinated
+      fallback, and grounds its answers in exact figures when the evidence is strong. 
+      RAGAS evaluation and API deployment.
   </p>
   <div class="project-skills">
     <strong>Skills & Tools:</strong> Python, LangChain, BGE embeddings, 
