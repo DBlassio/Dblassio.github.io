@@ -89,8 +89,15 @@ h1.page-title {
   <div class="project-institution">INRIA, CNRS, i3S — France</div>
   <div class="project-supervisor">Supervisor: Dr. Serena Villata | MARIANNE Team</div>
   <p class="project-description">
-    Does an image change what a tweet is arguing? I built and compared text-only, vision-only,
-    and multimodal architectures on the ImageArg dataset (tweets on gun control and abortion) to find out. Along the way, I found text alone hits F1 = 0.933, but a CLIP vision-only model reaches F1 = 0.725, proof that images carry real argumentative signal on their own.
+      Does an image change what a tweet is arguing, or just decorate 
+      it? I built and benchmarked text-only, vision-only, and multimodal 
+      architectures — DeBERTa-v3 paired with CLIP, BLIP, and ALIGN — 
+      across five fusion strategies, from simple concatenation to gated 
+      fusion, on the ImageArg dataset (tweets on gun control and 
+      abortion). Text alone gets you far: F1 = 0.933. But a CLIP 
+      vision-only model, with no text at all, still reaches F1 = 0.725 — 
+      enough to show images aren't just decoration, they carry real 
+      argumentative weight on their own.
   </p>
   <p class="project-publication">
     📄 Published at <strong>COMMA 2026</strong> — <em>"Multimodal Stance 
