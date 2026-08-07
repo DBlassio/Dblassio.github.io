@@ -8,7 +8,7 @@
 <div style="margin-bottom:2rem;">
   <div style="font-size:1.4rem; font-weight:bold;">
     MSc Computational Neuroscience
-    <span style="float:right; font-size:1rem;">2024–2026</span>
+    <span style="float:right; font-size:1rem;">2026</span>
   </div>
   <div style="font-size:1rem; font-weight:bold;">
     Université Côte d'Azur, France <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20" height="14" alt="France Flag">
