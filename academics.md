@@ -7,20 +7,26 @@
 <!-- MSc NeuroAI -->
 <div style="margin-bottom:2rem;">
   <div style="font-size:1.4rem; font-weight:bold;">
-    MSc Modeling for Neuronal and Cognitive Systems
-    <span style="float:right; font-size:1rem;">2026</span>
+    MSc Computational Neuroscience
+    <span style="float:right; font-size:1rem;">2024–2026</span>
   </div>
   <div style="font-size:1rem; font-weight:bold;">
     Université Côte d'Azur, France <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20" height="14" alt="France Flag">
   </div>
   <div style="font-size:1.1rem; text-align: justify; margin-top:0.5rem;">
-    Specialization in NeuroAI, Cognitive Systems & Deep Learning. Focus on EEG/fMRI analysis, dynamic functional connectivity, brain-state clustering, and multimodal deep learning.
+    Program grounded in how the brain processes information using Deep Learning. Coursework covered neural population models, dynamical systems, and EEG/fMRI signal processing, while my actual research lived at the intersection: using transformers, vision encoders, and 
+    multimodal fusion architectures to model human perception directly.
   </div>
   <div style="font-size:0.9rem; margin-top:0.5rem;">
-    <b>Key Experience:</b> INRIA internships (CRONOS: computational brain dynamics; MARIANNE: multimodal NLP & NeuroAI)<br/>
-    <b>Tools & Skills:</b> Python (numpy, scipy, pandas), PyTorch, EEG/fMRI signal processing, phase coherence, clustering, statistical analysis, reproducible research, Git/GitHub, LaTeX/Overleaf<br/>
-    <span style="color:#007ACC;">🏆 Excellence Scholarship from the NeuroMod Institute </span><br>
-    <span style="color:#007ACC;">🏆 Excellence Scholarship in Artificial Intelligence from EFELIA </span>
+    <b>Key Experience:</b><br/>
+    • CRONOS (INRIA, France) — fMRI connectivity & brain-state clustering under LSD<br/>
+    • MARIANNE (INRIA, France) — multimodal stance detection, text + vision fusion<br/>
+    • PRHLT (UPV, Spain) — sexism detection, text + vision + physiological signals<br/>
+    <b>Tools & Skills:</b> Python, PyTorch, Hugging Face Transformers, 
+    DeBERTa/mDeBERTa, CLIP/BLIP/ALIGN, multimodal fusion (gated, cross-attention), 
+    EEG/fMRI signal processing, scikit-learn, statistical analysis, Git/GitHub, LaTeX/Overleaf<br/>
+    <span style="color:#007ACC;">🏆 Excellence Scholarship from the NeuroMod Institute</span><br>
+    <span style="color:#007ACC;">🏆 Excellence Scholarship in Artificial Intelligence from EFELIA</span>
   </div>
 </div>
 
